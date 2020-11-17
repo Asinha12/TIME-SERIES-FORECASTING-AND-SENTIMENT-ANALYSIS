@@ -1,4 +1,4 @@
-# TIME-SERIES-FORECASTING-
+# TIME SERIES ANALYSIS AND FORECASTING
 Time series forecasting of stock prices with ARIMA model. The stock is Reliance Industries from BSE SENSEX. 
 The jupyter notebook in python code includes:
   1. The analysis of stock trends.
